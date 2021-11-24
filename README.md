@@ -1,8 +1,10 @@
 # Gommunity
    ![enter image description here](https://www.linkpicture.com/q/b5fe5ddd67774fb69f12c2d6e4837931.png)
 
-Gommunity is a Social Media Platform developed especially for Gamers. it's a space where players have the opportunity to meet, share their passion & find new team mates to play with.
+Gommunity is a Social Media Platform developed specially for Gamers. 
+it's a space where players have the opportunity to meet, share their passion & find new team mates to play with.
 This web application is the end of first year Project at [Holberton School](https://www.holbertonschool.com/) Tunisia.
+
 This project was created by :
  - [Omar Yahia](https://www.linkedin.com/in/omar-yahia-78484980/)
  - [Mahdi Abid](https://www.linkedin.com/in/mahdixabid/)
