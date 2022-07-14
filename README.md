@@ -1,5 +1,5 @@
 # Gommunity
-   ![enter image description here](https://www.linkpicture.com/q/b5fe5ddd67774fb69f12c2d6e4837931.png)
+   <img src='./upload/logo.png'>
 
 Gommunity is a Social Media Platform developed specially for Gamers. 
 it's a space where players have the opportunity to meet, share their passion & find new team mates to play with.
